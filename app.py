@@ -1,3 +1,4 @@
+import streamlit as st
 if st.button("Run Query"):
     user_input = user_input.lower()
 
