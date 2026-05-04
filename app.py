@@ -1,4 +1,12 @@
 import streamlit as st
+
+st.title("🤖 AI Query Assistant")
+
+data = [
+    (1, "heena", 40),
+    (2, "asin", 50),
+    (3, "aditi", 45)
+]
 if st.button("Run Query"):
     user_input = user_input.lower()
 
