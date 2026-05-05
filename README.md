@@ -22,7 +22,7 @@ AI-Query-Assistant/
 ▶️ How to Run
 
 1.Clone the repository:
-git clone https://github.com/your-username/AI-Query-Assistant.git
+git clone https://github.com/heena270/AI-Query-Assistant.git
 Navigate to the project folder:
 
 cd AI-Query-Assistant
