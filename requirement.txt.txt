@@ -1,0 +1,4 @@
+1. Python
+2. Streamlit
+3. MYSQL
+4. MYSQL Python connector
